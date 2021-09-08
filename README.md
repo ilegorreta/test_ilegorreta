@@ -1,2 +1,2 @@
-# Softtek Test
+# Softtek Assessment
 ## By: Ivan Legorreta

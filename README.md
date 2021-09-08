@@ -1,2 +1,2 @@
-# softtek_test
+# Softtek Test
 ## By: Ivan Legorreta

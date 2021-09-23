@@ -1,2 +1,2 @@
-# Softtek Assessment
+# Interview Assessment
 ## By: Ivan Legorreta
